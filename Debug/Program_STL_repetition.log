@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\HP\source\repos\Program_STL_repetition\program.h(121): warning C4715: <lambda_5a57b81a8be00138e2ae2aab739c8b7a>::operator()<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >: значение возвращается не при всех путях выполнения
+  Program_STL_repetition.vcxproj -> C:\Users\HP\source\repos\Program_STL_repetition\Debug\Program_STL_repetition.exe

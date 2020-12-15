@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\Program_STL_repetition\Debug\Program_STL_repetition.exe
+C:\Users\HP\source\repos\Program_STL_repetition\Debug\Program_STL_repetition.pdb
